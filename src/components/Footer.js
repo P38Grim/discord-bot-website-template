@@ -12,7 +12,7 @@ const Footer = () => {
             <ul>
               <li>
                 <Link className="h-color" href="/">
-                  bot.gg
+                  CubeCloud
                 </Link>
                 <span
                   style={{
@@ -30,7 +30,7 @@ const Footer = () => {
                     alt="online-status"
                     className="onlineStatus"
                   />{" "}
-                  Bot is online!
+                  CubeCloud is online!
                 </span>
               </li>
             </ul>
@@ -61,10 +61,10 @@ const Footer = () => {
             <p className="p-color">
               Created with ❤️ by{" "}
               <Link
-                href="https://github.com/preetsuthar17"
+                href="discord.gg/CubeCloud"
                 className="h-color no-decoration"
               >
-                Preet Suthar
+                ZayDocs
               </Link>
             </p>
             <p className="p-color">{year} &copy; All rights reserved!</p>
@@ -76,7 +76,7 @@ const Footer = () => {
             <Link
               target="_blank"
               className="p-color no-decoration"
-              href="https://github.com/preetsuthar17/discord-bot-website-template"
+              href="https://discord.gg/CubeCloud"
             >
               /source-code
             </Link>
