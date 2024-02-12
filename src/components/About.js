@@ -5,7 +5,7 @@ const About = () => {
     <>
       <section className="about-section" id="about-section">
         <div className="about-header">
-          <h3 className="h-color">Why use this bot?</h3>
+          <h3 className="h-color">Why use CubeCloud?</h3>
         </div>
         <div className="about-container">
           <div className="about-card">
@@ -41,7 +41,7 @@ const About = () => {
 
         <section className="about-stats">
           <div className="about-stats-card">
-            <h4 className="h-color">17k+</h4>
+            <h4 className="h-color">100+</h4>
             <p className="p-color">Total Servers</p>
           </div>
           <div className="about-stats-card">
