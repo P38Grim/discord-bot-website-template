@@ -19,7 +19,7 @@ const Showcase = () => {
           your needs in your discord server.
         </p>
 
-        <span className="p-color">Bot is online!</span>
+        <span className="p-color">CubeCloud is online!</span>
         <div className="showcase-btn">
           <button className="btn">
             <Link className="h-color no-decoration" href="#">
