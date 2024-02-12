@@ -14,7 +14,7 @@ export default function Commands() {
       animate={{ opacity: 1 }}
     >
       <Head>
-        <title>Commands | BOT</title>
+        <title>Commands | CubeCloud</title>
         <meta
           name="description"
           content="Commands page | Minimal and awesome discord bot website created with ❤️ using NextJS"
@@ -39,16 +39,16 @@ export default function Commands() {
             <div className="box-content p-color">
               <ul>
                 <li>
-                  <kbd>$command1</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>user info</kbd> -{" "}
+                  <span className="p-color">get the users information.</span>
                 </li>
                 <li>
-                  <kbd>$command2</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>server-info</kbd> -{" "}
+                  <span className="p-color">get the servers information.</span>
                 </li>
                 <li>
-                  <kbd>$command3</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>bot-info</kbd> -{" "}
+                  <span className="p-color">get CubeClouds information</span>
                 </li>
               </ul>
             </div>
@@ -62,16 +62,16 @@ export default function Commands() {
             <div className="box-content p-color">
               <ul>
                 <li>
-                  <kbd>$command1</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>slap</kbd> -{" "}
+                  <span className="p-color">fake slap your friends.</span>
                 </li>
                 <li>
-                  <kbd>$command2</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>password</kbd> -{" "}
+                  <span className="p-color">generate the ultimate password</span>
                 </li>
                 <li>
-                  <kbd>$command3</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>ppsize</kbd> -{" "}
+                  <span className="p-color">just a joke chill.</span>
                 </li>
               </ul>
             </div>
@@ -85,16 +85,16 @@ export default function Commands() {
             <div className="box-content p-color">
               <ul>
                 <li>
-                  <kbd>$command1</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>set-welcome</kbd> -{" "}
+                  <span className="p-color">set the welcome / leave channel!</span>
                 </li>
                 <li>
-                  <kbd>$command2</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>set-ticket</kbd> -{" "}
+                  <span className="p-color">setup tickets</span>
                 </li>
                 <li>
-                  <kbd>$command3</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>set-counting</kbd> -{" "}
+                  <span className="p-color">start counting</span>
                 </li>
               </ul>
             </div>
@@ -109,16 +109,16 @@ export default function Commands() {
             <div className="box-content p-color">
               <ul>
                 <li>
-                  <kbd>$command1</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>youtube-add</kbd> -{" "}
+                  <span className="p-color">lets you know when your youtube is uploaded.</span>
                 </li>
                 <li>
-                  <kbd>$command2</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>remove-youtube</kbd> -{" "}
+                  <span className="p-color">remove the channel from youtube</span>
                 </li>
                 <li>
-                  <kbd>$command3</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>youtube-view</kbd> -{" "}
+                  <span className="p-color">shows youtube</span>
                 </li>
               </ul>
             </div>
@@ -133,16 +133,16 @@ export default function Commands() {
             <div className="box-content p-color">
               <ul>
                 <li>
-                  <kbd>$command1</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>kiss</kbd> -{" "}
+                  <span className="p-color">consensual kiss</span>
                 </li>
                 <li>
-                  <kbd>$command2</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>slap</kbd> -{" "}
+                  <span className="p-color">lol</span>
                 </li>
                 <li>
-                  <kbd>$command3</kbd> -{" "}
-                  <span className="p-color">Description of command</span>
+                  <kbd>bean</kbd> -{" "}
+                  <span className="p-color">fake ban</span>
                 </li>
               </ul>
             </div>
