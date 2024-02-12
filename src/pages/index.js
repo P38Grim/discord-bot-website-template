@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>CubeCloud</title>
+        <title> CubeCloud </title>
         <meta
           name="description"
           content="Enhance Your Trusted Guild With Our Premium Bot CubeCloud"
